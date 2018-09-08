@@ -12,7 +12,7 @@ width = 50
 height = 60
 x = (winWidth/2)-(width/2)
 y = (winHeight/2)-(height/2)
-vel = 5
+vel = 6
 jump = 50
 
 run = True
